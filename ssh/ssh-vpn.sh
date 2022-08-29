@@ -452,6 +452,7 @@ wget -O bannerku "https://raw.githubusercontent.com/why-project96/sheeyu/main/up
 
 chmod +x portsshnontls
 chmod +x portsshws
+chmod +x bannerku
 
 chmod +x sshovpnmenu
 chmod +x l2tpmenu
